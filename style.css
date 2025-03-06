@@ -1,0 +1,39 @@
+body {background-color: black;}
+#title {
+color: white;
+}
+div {
+word-wrap: break-word;
+width: 500px;
+margin: auto;
+width: 50%;
+
+padding: 10px;
+
+}
+
+#text {
+    color: white;
+    }
+    div {
+    word-wrap: break-word;
+    width: 500px;
+    margin: auto;
+    width: 50%;
+    
+    padding: 10px;
+    
+    }
+
+    #buttonSection {
+        color: white;
+        }
+        div {
+        word-wrap: break-word;
+        width: 500px;
+        margin: auto;
+        width: 50%;
+        
+        padding: 10px;
+        
+        }
