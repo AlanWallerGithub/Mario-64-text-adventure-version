@@ -1,6 +1,8 @@
-body {background-color: black;}
+body {background-color: #0C0C0C;}
 #title {
-color: white;
+    font-family: Consolas, monospace;
+    font-size: 30px;
+color: #CCCCCC;
 }
 div {
 word-wrap: break-word;
@@ -13,10 +15,14 @@ padding: 10px;
 }
 
 #text {
-    color: white;
+    color: #CCCCCC;
+    font-family: Consolas, monospace;
+    font-size: 180%;
+ 
     }
     div {
     word-wrap: break-word;
+  
     width: 500px;
     margin: auto;
     width: 50%;
@@ -26,7 +32,8 @@ padding: 10px;
     }
 
     #buttonSection {
-        color: white;
+
+        color: rgb(241, 238, 238);
         }
         div {
         word-wrap: break-word;
@@ -36,4 +43,10 @@ padding: 10px;
         
         padding: 10px;
         
+        }
+
+        #individualButton{
+         color: #0e0e0e;
+            font-family: Consolas, monospace;
+            font-size: 21px;
         }
